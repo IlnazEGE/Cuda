@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:300,400,italic,700);
 * {
 	padding: 0px;
@@ -1055,7 +1055,8 @@ body.ie .ibg img {
 }
 
 .mainblock {
-	background-color: #87509c;
+	// background-color: #87509c;
+	background-color: #000;
 }
 .mainblock__body {
 	max-width: 880px;
