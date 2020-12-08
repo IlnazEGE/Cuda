@@ -1055,8 +1055,7 @@ body.ie .ibg img {
 }
 
 .mainblock {
-	// background-color: #87509c;
-	background-color: #000;
+	background-color: #87509c;
 }
 .mainblock__body {
 	max-width: 880px;
